@@ -1,0 +1,622 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE database SYSTEM "file:///System/Library/DTDs/CoreData.dtd">
+
+<database>
+    <databaseInfo>
+        <version>134481920</version>
+        <UUID>8814A1C1-CE6E-47DB-B92C-F850183437A5</UUID>
+        <nextObjectID>192</nextObjectID>
+        <metadata>
+            <plist version="1.0">
+                <dict>
+                    <key>NSPersistenceFrameworkVersion</key>
+                    <integer>641</integer>
+                    <key>NSStoreModelVersionHashes</key>
+                    <dict>
+                        <key>DocumentOptions</key>
+                        <data>
+		S9gUq0LLtJbZPFWWm/jaD7i8dk/unDWP3/ociEx8ai8=
+		</data>
+                        <key>PuzzleModel</key>
+                        <data>
+		Z46tJEDxV/hdo/TTpwDR5cwaowukfHhIzz89oppqPY4=
+		</data>
+                        <key>WordClue</key>
+                        <data>
+		BKHbjZV7GBdGFBnHblk38jpNJtmpO7wGhkuFfsUM5j8=
+		</data>
+                    </dict>
+                    <key>NSStoreModelVersionHashesVersion</key>
+                    <integer>3</integer>
+                    <key>NSStoreModelVersionIdentifiers</key>
+                    <array>
+                        <string>1.0</string>
+                    </array>
+                </dict>
+            </plist>
+        </metadata>
+    </databaseInfo>
+    <object type="WORDCLUE" id="z102">
+        <attribute name="word" type="string">ALPACA</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z103">
+        <attribute name="word" type="string">REM</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z104">
+        <attribute name="word" type="string">IRA</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z105">
+        <attribute name="word" type="string">GAPS</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z106">
+        <attribute name="word" type="string">LOVERS</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z107">
+        <attribute name="word" type="string">LIT</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z108">
+        <attribute name="word" type="string">KEEN</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z109">
+        <attribute name="word" type="string">LTS</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z110">
+        <attribute name="word" type="string">EKE</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z111">
+        <attribute name="word" type="string">IDLE</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z112">
+        <attribute name="word" type="string">ALP</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z113">
+        <attribute name="word" type="string">ALB</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z114">
+        <attribute name="word" type="string">TRESS</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z115">
+        <attribute name="word" type="string">EAR</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z116">
+        <attribute name="word" type="string">AHOLD</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z117">
+        <attribute name="word" type="string">AWAKES</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z118">
+        <attribute name="word" type="string">WAR</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z119">
+        <attribute name="word" type="string">DVDS</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z120">
+        <attribute name="word" type="string">EFT</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z121">
+        <attribute name="word" type="string">AWFUL</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z122">
+        <attribute name="word" type="string">LOW</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z123">
+        <attribute name="word" type="string">AID</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z124">
+        <attribute name="word" type="string">ABLE</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z125">
+        <attribute name="word" type="string">AYES</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z126">
+        <attribute name="word" type="string">DIABLO</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z127">
+        <attribute name="word" type="string">APA</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z128">
+        <attribute name="word" type="string">REAGAN</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z129">
+        <attribute name="word" type="string">ENDOFTHEWEEK</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z130">
+        <attribute name="word" type="string">NYE</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z131">
+        <attribute name="word" type="string">ASTER</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z132">
+        <attribute name="word" type="string">SLEEVE</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z133">
+        <attribute name="word" type="string">NADA</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z134">
+        <attribute name="word" type="string">FAVRE</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z135">
+        <attribute name="word" type="string">EASELS</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z136">
+        <attribute name="word" type="string">SEMPERFI</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z137">
+        <attribute name="word" type="string">ZETAS</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z138">
+        <attribute name="word" type="string">NAG</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z139">
+        <attribute name="word" type="string">TESLA</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z140">
+        <attribute name="word" type="string">ELDER</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z141">
+        <attribute name="word" type="string">CAEN</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z142">
+        <attribute name="word" type="string">KAHLUA</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z143">
+        <attribute name="word" type="string">ERR</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z144">
+        <attribute name="word" type="string">GRAYAREA</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z145">
+        <attribute name="word" type="string">DAY</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z146">
+        <attribute name="word" type="string">AMTRAK</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z147">
+        <attribute name="word" type="string">MUDD</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z148">
+        <attribute name="word" type="string">ARM</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z149">
+        <attribute name="word" type="string">ADS</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z150">
+        <attribute name="word" type="string">PACT</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z151">
+        <attribute name="word" type="string">AVE</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z152">
+        <attribute name="word" type="string">ADASH</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z153">
+        <attribute name="word" type="string">APP</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z154">
+        <attribute name="word" type="string">RANAT</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z155">
+        <attribute name="word" type="string">AVA</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z156">
+        <attribute name="word" type="string">LIB</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="DOCUMENTOPTIONS" id="z157">
+        <attribute name="puzzleypos" type="int32">60</attribute>
+        <attribute name="puzzlexpos" type="int32">72</attribute>
+        <attribute name="puzzlewidth" type="int32">468</attribute>
+        <attribute name="puzzleheight" type="int32">442</attribute>
+        <attribute name="pageorientation" type="int32">0</attribute>
+        <attribute name="heading" type="encodable">YnBsaXN0MDDUAQIDBAUGR0hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK4H
+CBEVHCYnKDAxNDo+QVUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ1pOU0RlbGVnYXRlXE5TQXR0cmlidXRlc1YkY2xhc3OAAoAAgASADdIMEhMUWU5TLnN0cmluZ4ADUSDSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzXxAPTlNNdXRhYmxlU3RyaW5noxgaG1hOU1N0cmluZ1hOU09iamVjdNMdHgwfIiVXTlMua2V5c1pOUy5vYmplY3RzoiAhgAWABqIjJIAHgAqADFZOU0ZvbnRfEBBOU1BhcmFncmFwaFN0eWxl1CkqKwwsLS4vVk5TU2l6ZVhOU2ZGbGFnc1ZOU05hbWUjQDIAAAAAAAARCBCACIAJXxAWLkFwcGxlU3lzdGVtVUlGb250Qm9sZNIWFzIzVk5TRm9udKIyG9M1DDYOODlaTlNUYWJTdG9wc1tOU0FsaWdubWVudIAAgAsQAtIWFzs8XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjOz0bXxAQTlNQYXJhZ3JhcGhTdHlsZdIWFz9AXE5TRGljdGlvbmFyeaI/G9IWF0JDXU5TVGV4dFN0b3JhZ2WkREVGG11OU1RleHRTdG9yYWdlXxAZTlNNdXRhYmxlQXR0cmlidXRlZFN0cmluZ18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFJSlRyb290gAEACAARABoAIwAtADIANwBGAEwAVQBeAGkAdgB9AH8AgQCDAIUAigCUAJYAmACdAKgAsQDDAMcA0ADZAOAA6ADzAPYA+AD6AP0A/wEBAQMBCgEdASYBLQE2AT0BRgFJAUsBTQFmAWsBcgF1AXwBhwGTAZUBlwGZAZ4BuAG8Ac8B1AHhAeQB6QH3AfwCCgImAjsCTQJQAlUAAAAAAAACAQAAAAAAAABLAAAAAAAAAAAAAAAAAAACVw==
+</attribute>
+        <attribute name="downlabel" type="encodable">YnBsaXN0MDDUAQIDBAUGNzhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKsH
+CA8TGiIjKywvMlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgAqABNIKEBESWU5TLnN0cmluZ4ADVERvd27SFBUWF1okY2xhc3NuYW1lWCRjbGFzc2VzXxAPTlNNdXRhYmxlU3RyaW5noxYYGVhOU1N0cmluZ1hOU09iamVjdNMbHAodHyFXTlMua2V5c1pOUy5vYmplY3RzoR6ABaEggAaACVZOU0ZvbnTUJCUmCicoKSpWTlNTaXplWE5TZkZsYWdzVk5TTmFtZSNALAAAAAAAABEIEIAHgAhfEBYuQXBwbGVTeXN0ZW1VSUZvbnRCb2xk0hQVLS5WTlNGb250oi0Z0hQVMDFcTlNEaWN0aW9uYXJ5ojAZ0hQVMzRfEBlOU011dGFibGVBdHRyaWJ1dGVkU3RyaW5nozU2GV8QGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmdfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLROTpUcm9vdIABAAgAEQAaACMALQAyADcAQwBJAFAAWQBgAG0AbwBxAHMAeACCAIQAiQCOAJkAogC0ALgAwQDKANEA2QDkAOYA6ADqAOwA7gD1AP4BBQEOARUBHgEhASMBJQE+AUMBSgFNAVIBXwFiAWcBgwGHAaMBuAHKAc0B0gAAAAAAAAIBAAAAAAAAADsAAAAAAAAAAAAAAAAAAAHU
+</attribute>
+        <attribute name="defaultcluefontattributes" type="encodable">YnBsaXN0MDDUAQIDBAUGNzhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK0H
+CBcYGRobHCQlKzE0VSRudWxs0wkKCwwRFldOUy5rZXlzWk5TLm9iamVjdHNWJGNsYXNzpA0ODxCAAoADgASABaQSEhQVgAaABoAHgAqADF8QEndvcmRzZWFyY2hVc2VDbHVlc1tOU1VuZGVybGluZVZOU0ZvbnRXTlNDb2xvcgjUHR4fCyAhIiNWTlNTaXplWE5TZkZsYWdzVk5TTmFtZSNAKgAAAAAAABEBEIAIgAlZSGVsdmV0aWNh0iYnKClaJGNsYXNzbmFtZVgkY2xhc3Nlc1ZOU0ZvbnSiKCpYTlNPYmplY3TTLC0LLi8wV05TV2hpdGVcTlNDb2xvclNwYWNlQjAAEAOAC9ImJzIzV05TQ29sb3KiMirSJic1NlxOU0RpY3Rpb25hcnmiNSpfEA9OU0tleWVkQXJjaGl2ZXLROTpUcm9vdIABAAgAEQAaACMALQAyADcARQBLAFIAWgBlAGwAcQBzAHUAdwB5AH4AgACCAIQAhgCIAJ0AqQCwALgAuQDCAMkA0gDZAOIA5QDnAOkA8wD4AQMBDAETARYBHwEmAS4BOwE+AUABQgFHAU8BUgFXAWQBZwF5AXwBgQAAAAAAAAIBAAAAAAAAADsAAAAAAAAAAAAAAAAAAAGD
+</attribute>
+        <attribute name="cluesonsecondpage" type="bool">0</attribute>
+        <attribute name="cluesdoublespaced" type="bool">0</attribute>
+        <attribute name="cluepuzzlespacing" type="int32">16</attribute>
+        <attribute name="acrosslabel" type="encodable">YnBsaXN0MDDUAQIDBAUGNzhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKsH
+CA8TGiIjKywvMlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgAqABNIKEBESWU5TLnN0cmluZ4ADVkFjcm9zc9IUFRYXWiRjbGFzc25hbWVYJGNsYXNzZXNfEA9OU011dGFibGVTdHJpbmejFhgZWE5TU3RyaW5nWE5TT2JqZWN00xscCh0fIVdOUy5rZXlzWk5TLm9iamVjdHOhHoAFoSCABoAJVk5TRm9udNQkJSYKJygpKlZOU1NpemVYTlNmRmxhZ3NWTlNOYW1lI0AsAAAAAAAAEQgQgAeACF8QFi5BcHBsZVN5c3RlbVVJRm9udEJvbGTSFBUtLlZOU0ZvbnSiLRnSFBUwMVxOU0RpY3Rpb25hcnmiMBnSFBUzNF8QGU5TTXV0YWJsZUF0dHJpYnV0ZWRTdHJpbmejNTYZXxAZTlNNdXRhYmxlQXR0cmlidXRlZFN0cmluZ18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctE5OlRyb290gAEACAARABoAIwAtADIANwBDAEkAUABZAGAAbQBvAHEAcwB4AIIAhACLAJAAmwCkALYAugDDAMwA0wDbAOYA6ADqAOwA7gDwAPcBAAEHARABFwEgASMBJQEnAUABRQFMAU8BVAFhAWQBaQGFAYkBpQG6AcwBzwHUAAAAAAAAAgEAAAAAAAAAOwAAAAAAAAAAAAAAAAAAAdY=
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z158">
+        <attribute name="word" type="string">BOA</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z159">
+        <attribute name="word" type="string">RDA</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z160">
+        <attribute name="word" type="string">ASH</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z161">
+        <attribute name="word" type="string">ATEUP</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z162">
+        <attribute name="word" type="string">ACE</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z163">
+        <attribute name="word" type="string">LEE</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z164">
+        <attribute name="word" type="string">AZALEA</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z165">
+        <attribute name="word" type="string">ADDEND</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z166">
+        <attribute name="word" type="string">BADLANDS</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z167">
+        <attribute name="word" type="string">NAA</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z168">
+        <attribute name="word" type="string">GAL</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z169">
+        <attribute name="word" type="string">ATM</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z170">
+        <attribute name="word" type="string">EVA</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z171">
+        <attribute name="word" type="string">LAD</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z172">
+        <attribute name="word" type="string">ADDER</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z173">
+        <attribute name="word" type="string">ANARMANDALEG</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z174">
+        <attribute name="word" type="string">GIG</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z175">
+        <attribute name="word" type="string">AINT</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z176">
+        <attribute name="word" type="string">ZAIRE</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z177">
+        <attribute name="word" type="string">OLE</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="PUZZLEMODEL" id="z178">
+        <attribute name="puzzleshadowcolor" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMH
+CA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPEBAwLjQgMC40IDAuNCAwLjgAEAGAAtIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqISFFhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FITltidXd5fomSmp2muLvAAAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAAMI=
+</attribute>
+        <attribute name="puzzlepercentrevealed" type="int32">0</attribute>
+        <attribute name="puzzlehasshadow" type="bool">1</attribute>
+        <attribute name="puzzleforegroundcolor" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMH
+CA9VJG51bGzTCQoLDA0OV05TV2hpdGVcTlNDb2xvclNwYWNlViRjbGFzc0IwABADgALSEBESE1okY2xhc3NuYW1lWCRjbGFzc2VzV05TQ29sb3KiEhRYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRFxhUcm9vdIABCBEaIy0yNztBSFBdZGdpa3B7hIyPmKqtsgAAAAAAAAEBAAAAAAAAABkAAAAAAAAAAAAAAAAAAAC0
+</attribute>
+        <attribute name="puzzlefontlowercase" type="bool">0</attribute>
+        <attribute name="puzzlefontcolor" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMH
+CA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NMMC40IDAuNCAwLjQAEAGAAtIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqISFFhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FITltib3FzeIOMlJegsrW6AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAALw=
+</attribute>
+        <attribute name="puzzlefont" type="encodable">YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CBESVSRudWxs1AkKCwwNDg8QVk5TU2l6ZVhOU2ZGbGFnc1ZOU05hbWVWJGNsYXNzI0AwAAAAAAAAEBCAAoADWkNoYWxrYm9hcmTSExQVFlokY2xhc3NuYW1lWCRjbGFzc2VzVk5TRm9udKIVF1hOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEaG1Ryb290gAEIERojLTI3PEJLUltiaXJ0dniDiJOco6avwcTJAAAAAAAAAQEAAAAAAAAAHAAAAAAAAAAAAAAAAAAAAMs=
+</attribute>
+        <attribute name="puzzlecellcolor" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMH
+CA9VJG51bGzTCQoLDA0OV05TV2hpdGVcTlNDb2xvclNwYWNlViRjbGFzc0IxABADgALSEBESE1okY2xhc3NuYW1lWCRjbGFzc2VzV05TQ29sb3KiEhRYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRFxhUcm9vdIABCBEaIy0yNztBSFBdZGdpa3B7hIyPmKqtsgAAAAAAAAEBAAAAAAAAABkAAAAAAAAAAAAAAAAAAAC0
+</attribute>
+        <attribute name="puzzlebackgroundimagescale" type="bool">1</attribute>
+        <attribute name="puzzlebackgroundcolor" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMH
+CA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPEBAwLjkgMC45IDAuOSAwLjUAEAGAAtIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqISFFhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FITltidXd5fomSmp2muLvAAAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAAMI=
+</attribute>
+        <attribute name="puzzle" type="encodable">YnBsaXN0MDDUAAEAAgADAAQABQAGDYcNiFgkdmVyc2lvblgkb2JqZWN0c1kkYXJjaGl2ZXJUJHRv
+cBIAAYagrxECogAHAAgAGQB2AHcAeAB5AHoAewB8AH0AfgB/AIAAgQCCAIMAhACFAIYAhwCIAIkAigCLAIwAjQCOAI8AkACRAJIAkwCUAJUAlgCXAJgAmQCaAJsAnACdAJ4AnwCgAKEAogCjAKQApQCmAKcAqACpAKoAqwCsAK0ArgCvALAAsQCyALMAtAC1ALYAtwC4ALkAugC7ALwAvQC+AL8AwADBAMIAwwDEAMUAxgDHAMgAyQDKAMsAzADNAM4AzwDWAlsCXAJdAl4CXwJgAmECYgJjAmQCZQJmAmcCaAJpAmoCawJsAm0CbgJvAnACcQJyAnMCdAJ1AnYCdwJ4AnkCegJ7AnwCfQJ+An8CgAKBAoICgwKEAoUChgKHAogCiQKKAosCjAKNAo4CjwKQApECkgKTApQClQKWApcCmAKZApoCmwKcAp0CngKfAqACoQKiAqMCpAKlAqYCpwKoAqkCqgKrAqwCrQKuAq8CsAKxArICswK0ArUCtgK3ArgCuQK6ArsCvAK9Ar4CvwLAAsECwgLDAsQCxQLGAscCyALJAsoCywLMAs0CzgLPAtAC0QLSAtMC1ALVAtYC1wLYAtkC2gLbAtwC3QLeAt8C4ALhAuIC4wLkAuUC5gLnAugC6QLqAusC7ALtAu4C7wLwAvEC8gLzAvQC9QL2AvcC+AL5AvoC+wL8Av0C/gL/AwADAQMCAwMDBAMFAwYDBwMIAwkDCgMLAwwDDQMOAw8DEAMRAxIDEwMUAxUDFgMXAxgDGQMaAxsDLwMwAzEDNQNAA0EDSwNMA1cDWANiA2MDbQNuA3gDggODA40DlwOYA6IDowOtA7gDuQPDA80DzgPZA9oD5QPvA/kD+gQEBA4EGAQZBCQELgQ4BEIETQRXBFgEYgRtBHcEgQSMBJYEoQSsBK0EtwTBBMwE1gThBOsE9gT3BQEFDAUWBRcFIgUtBTgFQgVMBVYFYQVrBXUFfwWKBZUFnwWpBbQFtQW/BcoF1AXeBekF8wX9BgcGEgYdBigGMgYzBj4GSQZTBl0GaAZzBn0GhwaRBpsGnAamBrAGuwbGBtEG2wblBu8G+QcEBw8HGgckBy4HOAdCB00HWAdjB20HdweBB4wHlgegB6oHtAe/B8kH0wfeB+kH9Af+CAgIEwgdCCgIMwg+CEgIUghdCGcIaAhzCH0IiAiJCJMInQioCLMIvgjICNII3AjnCPEI/AkGCREJGwkmCTEJOwlFCU8JWQljCW4JeQmECY4JmAmiCawJtgnACcsJ1QnfCeoJ9An/CgoKFAofCikKMwo9CkgKUwpdCmgKcgp9CogKkgqdCqcKsgq9CscK0QrbCuUK7wr6CwQLDgsRCxILFQtxC3sLfwuEC4kLiguPC5ALlQuWC5sLnAuhC6ILpwusC60LsguzC7gLuQu+C78LxAvFC8oLywvQC9UL1gvbC9wL4QviC+cL6AvtC+4L8wv0C/kL+gv/DAAMBQwGDAsMDAwRDBIMFwwcDB0MIgwjDCgMLQwuDDMMNAw5DDoMPwxEDEUMSgxLDFAMUQxWDFcMXAxdDGIMYwxoDGkMbgxvDHQMdQx6DH8MgAyFDIYMiwyQDJEMlgyXDJwMnQyiDKMMqAypDK4Mswy0DLkMugy/DMQMxQzKDMsM0AzRDNYM1wzcDN0M4gzjDOgM6QzuDO8M9Az1DPoM+w0ADQENBg0HDQwNDQ0SDRMNGA0ZDR4NIw0kDSkNKg0vDTANNQ02DTsNPA1BDUYNRw1MDU0NUg1TDVgNWQ1eDV8NZA1lDWoNaw1wDXENdg13DXwNfQ2CDYNVJG51bGzYAAkACgALAAwADQAOAA8AEAARABIAEwAUABUAFgAXABhWJGNsYXNzXxAbUHV6emxlR3JpZENlbGxEaWN0aW9uYXJ5S2V5XxAWUHV6emxlVW5wbGFjZWRXb3Jkc0tleV8QGFB1enpsZVBlcmNlbnRSZXZlYWxlZEtleV8QF1B1enpsZVdvcmREaWN0aW9uYXJ5S2V5XxAYUHV6emxlUGxhY2VtZW50c0FycmF5S2V5XxARUHV6emxlR3JpZFJlY3RLZXleUHV6emxlU2NvcmVLZXmBAqGAXYEB+RAAgAKBAfqBAfgQwNIAGgAJABsAdVpOUy5vYmplY3RzrxBZABwAHQAeAB8AIAAhACIAIwAkACUAJgAnACgAKQAqACsALAAtAC4ALwAwADEAMgAzADQANQA2ADcAOAA5ADoAOwA8AD0APgA/AEAAQQBCAEMARABFAEYARwBIAEkASgBLAEwATQBOAE8AUABRAFIAUwBUAFUAVgBXAFgAWQBaAFsAXABdAF4AXwBgAGEAYgBjAGQAZQBmAGcAaABpAGoAawBsAG0AbgBvAHAAcQByAHMAdIADgASABYAGgAeACIAJgAqAC4AMgA2ADoAPgBCAEYASgBOAFIAVgBaAF4AYgBmAGoAbgByAHYAegB+AIIAhgCKAI4AkgCWAJoAngCiAKYAqgCuALIAtgC6AL4AwgDGAMoAzgDSANYA2gDeAOIA5gDqAO4A8gD2APoA/gECAQYBCgEOARIBFgEaAR4BIgEmASoBLgEyATYBOgE+AUIBRgFKAU4BUgFWAVoBXgFiAWYBagFuAXFVBRERFUlZBWkFMRUFWREFOSVNIVkRJQUJMT1NFUlJTUkVNVlJFQUdBTlVSQU5BVFVFTERFUlNBUEFTR0FMU0FDRVNOQUdTR0lHWEdSQVlBUkVBVElETEVUR0FQU1VaQUlSRVZBTFBBQ0FTUkRBXEFOQVJNQU5EQUxFR1NBUk1TQUxQU0xJQlNSQUVUQVlFU1NBVkVTRVNMVkFNVFJBS1NBRFNVQVNURVJUS0VFTlNBVkFTQVBQVUFIT0xEU0xFRVhTRU1QRVJGSVRNVUREU0ZBRFNJUkFTRVNDVENBRU5VQVRFVVBVQURBU0hTRUFSVEFCTEVTQUxCU0JPQVhMVURBQ1JJU1ZBRERFTkRURFZEU1ROQURBU05ZRVNMT1VVTEVWQVJTTEFEU0RBWVNBVE1YQkFETEFORFNTTElUVVRFU0xBVlNMRUVWRVZMT1ZFUlNWQVdBS0VTU0FJRFZTSEFaQU1VQVdGVUxVWkVUQVNTQVNIU0xPV1RQQUNUVFBBVUxUQUlOVFNXRVNTRVZBU0FJUlxFTkRPRlRIRVdFRUtTRUtFU05BQVNESFNTT0xFU0VGVFNXQVJTVU5JVktBSExVQVVGQVZSRVNMVFNWRUFTRUxTVVRSRVNT0gDQANEA0gDTWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjANIA1ADVV05TQXJyYXlYTlNPYmplY3TTANcAGgAJANgBmQJaV05TLmtleXOvEMAA2QDaANsA3ADdAN4A3wDgAOEA4gDjAOQA5QDmAOcA6ADpAOoA6wDsAO0A7gDvAPAA8QDyAPMA9AD1APYA9wD4APkA+gD7APwA/QD+AP8BAAEBAQIBAwEEAQUBBgEHAQgBCQEKAQsBDAENAQ4BDwEQAREBEgETARQBFQEWARcBGAEZARoBGwEcAR0BHgEfASABIQEiASMBJAElASYBJwE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0dGVyS2V5XxATR3JpZENlbGxQb3NpdGlvbktleV8QEUdyaWRDZWxsTnVtYmVyS2V5CAmBASEICAgIgQEfgQEgE///////////UUhWezAsIDB90gDQANEDMgMzXEdyaWRDZWxsT2JqQ6IDNADVXEdyaWRDZWxsT2JqQ9oDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlAz0DLQM/CAmBASEICAgIgQEjgQEgEDVRTNoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA0kDLQMuCAmBASEICAgIgQElgQEgUUXaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0DVggJgQEhCAgICIEBJ4EBIBAUUUHaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNgAy0DLggJgQEhCAgICIEBKYEBIFFU2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDawMtAy4ICYEBIQgICAiBASuBASBRUtoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA0kDLQMuCAmBASEICAgIgQElgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDgAMtAy4ICYEBIQgICAiBAS6BASBRTtoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQMuCAmBASEICAgIgQEngQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDlQMtAy4ICYEBIQgICAiBATGBASBRWdoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA6ADLQMuCAmBASEICAgIgQEzgQEgUVbaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0DLggJgQEhCAgICIEBJYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA7UDLQO3CAmBASEICAgIgQE2gQEgEEVRT9oDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQMuCAmBASEICAgIgQEngQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDywMtAy4ICYEBIQgICAiBATmBASBRU9oDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA9YDLQPYCAmBASEICAgIgQE7gQEgECBRTdoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlAz0DLQPkCAmBASEICAgIgQEjgQEgEDzaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQM9Ay0DLggJgQEhCAgICIEBI4EBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA/cDLQMuCAmBASEICAgIgQE/gQEgUUnaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0DLggJgQEhCAgICIEBJYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA2sDLQMuCAmBASEICAgIgQErgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUEFgMtAy4ICYEBIQgICAiBAUOBASBRVdoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA4ADLQQjCAmBASEICAgIgQEugQEgEEPaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQPLAy0DLggJgQEhCAgICIEBOYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA0kDLQMuCAmBASEICAgIgQElgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDYAMtAy4ICYEBIQgICAiBASmBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0ETAgJgQEhCAgICIEBJYEBIBAm2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUEVQMtAy4ICYEBIQgICAiBAUqBASBRRNoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQMuCAmBASEICAgIgQEngQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDSQMtBGwICYEBIQgICAiBASWBASAQQNoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA2sDLQMuCAmBASEICAgIgQErgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDVAMtAy4ICYEBIQgICAiBASeBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQRVAy0EiwgJgQEhCAgICIEBSoEBIBAv2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDVAMtAy4ICYEBIQgICAiBASeBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0EoAgJgQEhCAgICIEBJ4EBIBA+2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUEqQMtBKsICYEBIQgICAiBAVOBASAQDlFH2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUD9wMtAy4ICYEBIQgICAiBAT+BASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0DLggJgQEhCAgICIEBJYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQTLCAmBASEICAgIgQEngQEgEAHaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQPLAy0DLggJgQEhCAgICIEBOYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA8sDLQTgCAmBASEICAgIgQE5gQEgEDTaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0DLggJgQEhCAgICIEBJ4EBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlBPMDLQT1CAmBASEICAgIgQFbgQEgEA9RWtoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA4ADLQMuCAmBASEICAgIgQEugQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDVAMtBQsICYEBIQgICAiBASeBASAQEtoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlBRQDLQMuCAmBASEICAgIgQFfgQEgUVDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQRVAy0FIQgJgQEhCAgICIEBSoEBIBAC2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDPQMtBSwICYEBIQgICAiBASOBASAQFdoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQU3CAmBASEICAgIgQEngQEgEBfaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNgAy0DLggJgQEhCAgICIEBKYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA6ADLQMuCAmBASEICAgIgQEzgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDVAMtAy4ICYEBIQgICAiBASeBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0FYAgJgQEhCAgICIEBJYEBIBAY2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDywMtAy4ICYEBIQgICAiBATmBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQOAAy0DLggJgQEhCAgICIEBLoEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA6ADLQMuCAmBASEICAgIgQEzgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDVAMtBYkICYEBIQgICAiBASeBASAQHdoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlBFUDLQWUCAmBASEICAgIgQFKgQEgEAPaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQP3Ay0DLggJgQEhCAgICIEBP4EBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA9YDLQMuCAmBASEICAgIgQE7gQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUFsQMtBbMICYEBIQgICAiBAW+BASAQR1FX2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUD9wMtAy4ICYEBIQgICAiBAT+BASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0FyQgJgQEhCAgICIEBJ4EBIBA52gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDywMtAy4ICYEBIQgICAiBATmBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0DLggJgQEhCAgICIEBJYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQXoCAmBASEICAgIgQEngQEgECfaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0DLggJgQEhCAgICIEBJYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQMuCAmBASEICAgIgQEngQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDLAMtAy4ICYEBIQgICAiBAR+BASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQM9Ay0GEQgJgQEhCAgICIEBI4EBIBAt2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDSQMtBhwICYEBIQgICAiBASWBASAQBNoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA/cDLQYnCAmBASEICAgIgQE/gQEgECLaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQYwAy0DLggJgQEhCAgICIEBfIEBIFFC2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUFsQMtBj0ICYEBIQgICAiBAW+BASAQP9oDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlBjADLQZICAmBASEICAgIgQF8gQEgEDHaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNrAy0DLggJgQEhCAgICIEBK4EBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlAz0DLQMuCAmBASEICAgIgQEjgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDywMtBmcICYEBIQgICAiBATmBASAQONoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlBjADLQZyCAmBASEICAgIgQF8gQEgECjaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0DLggJgQEhCAgICIEBJ4EBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA2sDLQMuCAmBASEICAgIgQErgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDawMtAy4ICYEBIQgICAiBASuBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQaZAy0DLggJgQEhCAgICIEBh4EBIFFG2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDtQMtAy4ICYEBIQgICAiBATaBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQO1Ay0DLggJgQEhCAgICIEBNoEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA4ADLQa6CAmBASEICAgIgQEugQEgECzaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQOAAy0GxQgJgQEhCAgICIEBLoEBIBAL2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDawMtBtAICYEBIQgICAiBASuBASAQBdoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQMuCAmBASEICAgIgQEngQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDSQMtAy4ICYEBIQgICAiBASWBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0DLggJgQEhCAgICIEBJ4EBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlBBYDLQMuCAmBASEICAgIgQFDgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDVAMtBwMICYEBIQgICAiBASeBASAQO9oDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlAz0DLQcOCAmBASEICAgIgQEjgQEgECnaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQP3Ay0HGQgJgQEhCAgICIEBP4EBIBAN2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDlQMtAy4ICYEBIQgICAiBATGBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQRVAy0DLggJgQEhCAgICIEBSoEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQMuCAmBASEICAgIgQEngQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUD1gMtAy4ICYEBIQgICAiBATuBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0HTAgJgQEhCAgICIEBJYEBIBBG2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDPQMtB1cICYEBIQgICAiBASOBASAQHtoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlBFUDLQdiCAmBASEICAgIgQFKgQEgEETaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQQWAy0DLggJgQEhCAgICIEBQ4EBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA2sDLQMuCAmBASEICAgIgQErgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDPQMtAy4ICYEBIQgICAiBASOBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0HiwgJgQEhCAgICIEBJYEBIBAj2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDSQMtAy4ICYEBIQgICAiBASWBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQRVAy0DLggJgQEhCAgICIEBSoEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlBFUDLQMuCAmBASEICAgIgQFKgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUEqQMtAy4ICYEBIQgICAiBAVOBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0HvggJgQEhCAgICIEBJ4EBIBAZ2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDLAMtAy4ICYEBIQgICAiBAR+BASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0DLggJgQEhCAgICIEBJYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQfdCAmBASEICAgIgQEngQEgEDfaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0H6AgJgQEhCAgICIEBJ4EBIBAT2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDVAMtB/MICYEBIQgICAiBASeBASAQNtoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA8sDLQMuCAmBASEICAgIgQE5gQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUEVQMtAy4ICYEBIQgICAiBAUqBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0IEggJgQEhCAgICIEBJYEBIBBC2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDPQMtAy4ICYEBIQgICAiBASOBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNrAy0IJwgJgQEhCAgICIEBK4EBIBAG2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUGmQMtCDIICYEBIQgICAiBAYeBASAQStoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA2sDLQg9CAmBASEICAgIgQErgQEgEBbaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQPLAy0DLggJgQEhCAgICIEBOYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA8sDLQMuCAmBASEICAgIgQE5gQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDPQMtCFwICYEBIQgICAiBASOBASAQMtoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlCGUDLQMuCAmBASEICAgIgQG0gQEgUUPaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0IcggJgQEhCAgICIEBJ4EBIBAQ2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUD1gMtAy4ICYEBIQgICAiBATuBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQiFAy0IhwgJgQEhCAgICIEBuIEBIBBJUUvaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0DLggJgQEhCAgICIEBJYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA4ADLQMuCAmBASEICAgIgQEugQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDVAMtCKcICYEBIQgICAiBASeBASAQHNoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlAz0DLQiyCAmBASEICAgIgQEjgQEgEC7aAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0IvQgJgQEhCAgICIEBJYEBIBAH2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDawMtAy4ICYEBIQgICAiBASuBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0DLggJgQEhCAgICIEBJ4EBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlAywDLQMuCAmBASEICAgIgQEfgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUIZQMtCOYICYEBIQgICAiBAbSBASAQJNoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQMuCAmBASEICAgIgQEngQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDSQMtCPsICYEBIQgICAiBASWBASAQTNoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlAz0DLQMuCAmBASEICAgIgQEjgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUFFAMtCRAICYEBIQgICAiBAV+BASAQPdoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlBRQDLQMuCAmBASEICAgIgQFfgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDYAMtCSUICYEBIQgICAiBASmBASAQTdoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQkwCAmBASEICAgIgQEngQEgECraAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNgAy0DLggJgQEhCAgICIEBKYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA/cDLQMuCAmBASEICAgIgQE/gQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUEVQMtAy4ICYEBIQgICAiBAUqBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQWxAy0DLggJgQEhCAgICIEBb4EBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA0kDLQMuCAmBASEICAgIgQElgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUGmQMtCW0ICYEBIQgICAiBAYeBASAQIdoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQl4CAmBASEICAgIgQEngQEgEAjaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0JgwgJgQEhCAgICIEBJ4EBIBBB2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDSQMtAy4ICYEBIQgICAiBASWBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQUUAy0DLggJgQEhCAgICIEBX4EBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA4ADLQMuCAmBASEICAgIgQEugQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUFFAMtAy4ICYEBIQgICAiBAV+BASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQPLAy0DLggJgQEhCAgICIEBOYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA2sDLQMuCAmBASEICAgIgQErgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUEVQMtCcoICYEBIQgICAiBAUqBASAQK9oDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQMuCAmBASEICAgIgQEngQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDVAMtAy4ICYEBIQgICAiBASeBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQQWAy0J6QgJgQEhCAgICIEBQ4EBIBBI2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDoAMtAy4ICYEBIQgICAiBATOBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0J/ggJgQEhCAgICIEBJ4EBIBAK2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUEqQMtCgkICYEBIQgICAiBAVOBASAQCdoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQMuCAmBASEICAgIgQEngQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDVAMtCh4ICYEBIQgICAiBASeBASAQJdoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlBFUDLQMuCAmBASEICAgIgQFKgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUEVQMtAy4ICYEBIQgICAiBAUqBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0DLggJgQEhCAgICIEBJ4EBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlAz0DLQpHCAmBASEICAgIgQEjgQEgEEvaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQSpAy0KUggJgQEhCAgICIEBU4EBIBAM2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUEVQMtAy4ICYEBIQgICAiBAUqBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0KZwgJgQEhCAgICIEBJ4EBIBAa2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUIZQMtAy4ICYEBIQgICAiBAbSBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNUAy0KfAgJgQEhCAgICIEBJ4EBIBAw2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUE8wMtCocICYEBIQgICAiBAVuBASAQOtoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlAz0DLQMuCAmBASEICAgIgQEjgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDywMtCpwICYEBIQgICAiBATmBASAQH9oDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA1QDLQMuCAmBASEICAgIgQEngQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDYAMtCrEICYEBIQgICAiBASmBASAQM9oDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA2sDLQq8CAmBASEICAgIgQErgQEgEBHaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0DLggJgQEhCAgICIEBJYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA7UDLQMuCAmBASEICAgIgQE2gQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDywMtAy4ICYEBIQgICAiBATmBASDaAxwDHQAJAx4DHwMgAyEDIgMjAyQDJQMmAycDJQMlAyUDJQNJAy0DLggJgQEhCAgICIEBJYEBINoDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlA2ADLQMuCAmBASEICAgIgQEpgQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUIhQMtCvkICYEBIQgICAiBAbiBASAQG9oDHAMdAAkDHgMfAyADIQMiAyMDJAMlAyYDJwMlAyUDJQMlCIUDLQMuCAmBASEICAgIgQG4gQEg2gMcAx0ACQMeAx8DIAMhAyIDIwMkAyUDJgMnAyUDJQMlAyUDSQMtAy4ICYEBIQgICAiBASWBASDSANAA0QsPCxBcTlNEaWN0aW9uYXJ5ogsPANVfEBJ7ezAsIDB9LCB7MTYsIDE1fX3SABoACQsTAHWggFzSABoACQsWAHWvEFkLFwsYCxkLGgsbCxwLHQseCx8LIAshCyILIwskCyULJgsnCygLKQsqCysLLAstCy4LLwswCzELMgszCzQLNQs2CzcLOAs5CzoLOws8Cz0LPgs/C0ALQQtCC0MLRAtFC0YLRwtIC0kLSgtLC0wLTQtOC08LUAtRC1ILUwtUC1ULVgtXC1gLWQtaC1sLXAtdC14LXwtgC2ELYgtjC2QLZQtmC2cLaAtpC2oLawtsC20LbgtvgQH7gQH9gQH+gQIAgQICgQIEgQIGgQIIgQIJgQILgQINgQIPgQIRgQITgQIVgQIWgQIYgQIagQIcgQIegQIggQIigQIkgQImgQIogQIqgQIsgQItgQIvgQIxgQIygQI0gQI2gQI4gQI5gQI7gQI9gQI/gQJBgQJDgQJFgQJHgQJJgQJLgQJMgQJOgQJQgQJRgQJTgQJVgQJXgQJZgQJbgQJcgQJegQJggQJhgQJjgQJlgQJngQJpgQJrgQJtgQJvgQJxgQJzgQJ1gQJ3gQJ5gQJ7gQJ9gQJ/gQKAgQKCgQKEgQKGgQKIgQKKgQKLgQKNgQKPgQKRgQKTgQKVgQKXgQKZgQKbgQKdgQKfgFzWAAkLcgtzC3QLdQt2C3cAHAYcAyUEywMtXxAUR3JpZFBsYWNlbWVudFdvcmRLZXlfEBlHcmlkUGxhY2VtZW50RGlyZWN0aW9uS2V5XxAaR3JpZFBsYWNlbWVudElzUmV2ZWFsZWRLZXlfEBZHcmlkUGxhY2VtZW50TnVtYmVyS2V5XxAYR3JpZFBsYWNlbWVudFBvc2l0aW9uS2V5gQH8gAMIgQEg0gDQANELfAt9XxARR3JpZFBsYWNlbWVudE9iakOiC34A1V8QEUdyaWRQbGFjZW1lbnRPYmpD1gAJC3ILcwt0C3ULdgt3AB0FIQMlBMsDLYEB/IAECIEBINYACQtyC3MLdAt1C3YLdwAeBSEDJQUhC4iBAfyABQiBAf9WezEsIDB91gAJC3ILcwt0C3ULdgt3AB8FIQMlBZQLjoEB/IAGCIECAVZ7MiwgMH3WAAkLcgtzC3QLdQt2C3cAIAUhAyUGHAuUgQH8gAcIgQIDVnszLCAwfdYACQtyC3MLdAt1C3YLdwAhBSEDJQbQC5qBAfyACAiBAgVWezQsIDB91gAJC3ILcwt0C3ULdgt3ACIGHAMlCCcLoIEB/IAJCIECB1Z7NiwgMH3WAAkLcgtzC3QLdQt2C3cAIwUhAyUIJwuggQH8gAoIgQIH1gAJC3ILcwt0C3ULdgt3ACQFIQMlCL0Lq4EB/IALCIECClZ7NywgMH3WAAkLcgtzC3QLdQt2C3cAJQUhAyUJeAuxgQH8gAwIgQIMVns4LCAwfdYACQtyC3MLdAt1C3YLdwAmBSEDJQoJC7eBAfyADQiBAg5WezksIDB91gAJC3ILcwt0C3ULdgt3ACcFIQMlCf4LvYEB/IAOCIECEFd7MTAsIDB91gAJC3ILcwt0C3ULdgt3ACgFIQMlBsULw4EB/IAPCIECEld7MTEsIDB91gAJC3ILcwt0C3ULdgt3ACkGHAMlClILyYEB/IAQCIECFFd7MTMsIDB91gAJC3ILcwt0C3ULdgt3ACoFIQMlClILyYEB/IARCIECFNYACQtyC3MLdAt1C3YLdwArBSEDJQcZC9SBAfyAEgiBAhdXezE0LCAwfdYACQtyC3MLdAt1C3YLdwAsBSEDJQSrC9qBAfyAEwiBAhlXezE1LCAwfdYACQtyC3MLdAt1C3YLdwAtBhwDJQT1C+CBAfyAFAiBAhtWezAsIDF91gAJC3ILcwt0C3ULdgt3AC4GHAMlCHIL5oEB/IAVCIECHVZ7NiwgMX3WAAkLcgtzC3QLdQt2C3cALwYcAyUKvAvsgQH8gBYIgQIfV3sxMywgMX3WAAkLcgtzC3QLdQt2C3cAMAYcAyUFCwvygQH8gBcIgQIhVnswLCAyfdYACQtyC3MLdAt1C3YLdwAxBSEDJQfoC/iBAfyAGAiBAiNWezUsIDJ91gAJC3ILcwt0C3ULdgt3ADIGHAMlA1YL/oEB/IAZCIECJVd7MTMsIDJ91gAJC3ILcwt0C3ULdgt3ADMGHAMlBSwMBIEB/IAaCIECJ1Z7MCwgM33WAAkLcgtzC3QLdQt2C3cANAYcAyUIPQwKgQH8gBsIgQIpVns1LCAzfdYACQtyC3MLdAt1C3YLdwA1BhwDJQU3DBCBAfyAHAiBAitXezEyLCAzfdYACQtyC3MLdAt1C3YLdwA2BSEDJQU3DBCBAfyAHQiBAivWAAkLcgtzC3QLdQt2C3cANwYcAyUFYAwbgQH8gB4IgQIuVnswLCA0fdYACQtyC3MLdAt1C3YLdwA4BhwDJQe+DCGBAfyAHwiBAjBWezQsIDR91gAJC3ILcwt0C3ULdgt3ADkFIQMlB74MIYEB/IAgCIECMNYACQtyC3MLdAt1C3YLdwA6BSEDJQpnDCyBAfyAIQiBAjNWezgsIDR91gAJC3ILcwt0C3ULdgt3ADsFIQMlCvkMMoEB/IAiCIECNVZ7OSwgNH3WAAkLcgtzC3QLdQt2C3cAPAYcAyUIpww4gQH8gCMIgQI3V3sxMSwgNH3WAAkLcgtzC3QLdQt2C3cAPQUhAyUIpww4gQH8gCQIgQI31gAJC3ILcwt0C3ULdgt3AD4GHAMlBYkMQ4EB/IAlCIECOlZ7MCwgNX3WAAkLcgtzC3QLdQt2C3cAPwUhAyUHVwxJgQH8gCYIgQI8VnszLCA1fdYACQtyC3MLdAt1C3YLdwBABhwDJQqcDE+BAfyAJwiBAj5WezgsIDV91gAJC3ILcwt0C3ULdgt3AEEFIQMlA9gMVYEB/IAoCIECQFd7MTAsIDV91gAJC3ILcwt0C3ULdgt3AEIFIQMlCW0MW4EB/IApCIECQld7MTQsIDV91gAJC3ILcwt0C3ULdgt3AEMFIQMlBicMYYEB/IAqCIECRFd7MTUsIDV91gAJC3ILcwt0C3ULdgt3AEQGHAMlB4sMZ4EB/IArCIECRlZ7MywgNn3WAAkLcgtzC3QLdQt2C3cARQUhAyUI5gxtgQH8gCwIgQJIVns1LCA2fdYACQtyC3MLdAt1C3YLdwBGBhwDJQoeDHOBAfyALQiBAkpWezcsIDZ91gAJC3ILcwt0C3ULdgt3AEcFIQMlCh4Mc4EB/IAuCIECStYACQtyC3MLdAt1C3YLdwBIBhwDJQRMDH6BAfyALwiBAk1XezEzLCA2fdYACQtyC3MLdAt1C3YLdwBJBhwDJQXoDISBAfyAMAiBAk9WezAsIDd91gAJC3ILcwt0C3ULdgt3AEoFIQMlBegMhIEB/IAxCIECT9YACQtyC3MLdAt1C3YLdwBLBSEDJQZyDI+BAfyAMgiBAlJWezEsIDd91gAJC3ILcwt0C3ULdgt3AEwFIQMlBw4MlYEB/IAzCIECVFZ7MiwgN33WAAkLcgtzC3QLdQt2C3cATQYcAyUJMAybgQH8gDQIgQJWVns1LCA3fdYACQtyC3MLdAt1C3YLdwBOBSEDJQnKDKGBAfyANQiBAlhWezYsIDd91gAJC3ILcwt0C3ULdgt3AE8GHAMlBroMp4EB/IA2CIECWld7MTIsIDd91gAJC3ILcwt0C3ULdgt3AFAFIQMlBroMp4EB/IA3CIECWtYACQtyC3MLdAt1C3YLdwBRBhwDJQYRDLKBAfyAOAiBAl1WezAsIDh91gAJC3ILcwt0C3ULdgt3AFIGHAMlCLIMuIEB/IA5CIECX1Z7NCwgOH3WAAkLcgtzC3QLdQt2C3cAUwUhAyUIsgy4gQH8gDoIgQJf1gAJC3ILcwt0C3ULdgt3AFQGHAMlBIsMw4EB/IA7CIECYld7MTAsIDh91gAJC3ILcwt0C3ULdgt3AFUFIQMlCnwMyYEB/IA8CIECZFd7MTEsIDh91gAJC3ILcwt0C3ULdgt3AFYGHAMlBkgMz4EB/IA9CIECZlZ7MCwgOX3WAAkLcgtzC3QLdQt2C3cAVwUhAyUIXAzVgQH8gD4IgQJoVnszLCA5fdYACQtyC3MLdAt1C3YLdwBYBhwDJQqxDNuBAfyAPwiBAmpXezExLCA5fdYACQtyC3MLdAt1C3YLdwBZBSEDJQTgDOGBAfyAQAiBAmxXezEzLCA5fdYACQtyC3MLdAt1C3YLdwBaBSEDJQM/DOeBAfyAQQiBAm5XezE0LCA5fdYACQtyC3MLdAt1C3YLdwBbBSEDJQfzDO2BAfyAQgiBAnBXezE1LCA5fdYACQtyC3MLdAt1C3YLdwBcBhwDJQfdDPOBAfyAQwiBAnJXezIsIDEwfdYACQtyC3MLdAt1C3YLdwBdBhwDJQZnDPmBAfyARAiBAnRXezYsIDEwfdYACQtyC3MLdAt1C3YLdwBeBSEDJQXJDP+BAfyARQiBAnZXezgsIDEwfdYACQtyC3MLdAt1C3YLdwBfBSEDJQqHDQWBAfyARgiBAnhXezksIDEwfdYACQtyC3MLdAt1C3YLdwBgBSEDJQcDDQuBAfyARwiBAnpYezEwLCAxMH3WAAkLcgtzC3QLdQt2C3cAYQYcAyUD5A0RgQH8gEgIgQJ8WHsxMywgMTB91gAJC3ILcwt0C3ULdgt3AGIGHAMlCRANF4EB/IBJCIECfld7MCwgMTF91gAJC3ILcwt0C3ULdgt3AGMFIQMlCRANF4EB/IBKCIECftYACQtyC3MLdAt1C3YLdwBkBSEDJQSgDSKBAfyASwiBAoFXezEsIDExfdYACQtyC3MLdAt1C3YLdwBlBhwDJQY9DSiBAfyATAiBAoNXezgsIDExfdYACQtyC3MLdAt1C3YLdwBmBhwDJQRsDS6BAfyATQiBAoVYezEzLCAxMX3WAAkLcgtzC3QLdQt2C3cAZwYcAyUJgw00gQH8gE4IgQKHV3swLCAxMn3WAAkLcgtzC3QLdQt2C3cAaAYcAyUIEg06gQH8gE8IgQKJV3s0LCAxMn3WAAkLcgtzC3QLdQt2C3cAaQUhAyUIEg06gQH8gFAIgQKJ1gAJC3ILcwt0C3ULdgt3AGoFIQMlBCMNRYEB/IBRCIECjFd7NSwgMTJ91gAJC3ILcwt0C3ULdgt3AGsFIQMlB2INS4EB/IBSCIECjld7NiwgMTJ91gAJC3ILcwt0C3ULdgt3AGwFIQMlA7cNUYEB/IBTCIECkFd7NywgMTJ91gAJC3ILcwt0C3ULdgt3AG0FIQMlB0wNV4EB/IBUCIECklh7MTEsIDEyfdYACQtyC3MLdAt1C3YLdwBuBSEDJQWzDV2BAfyAVQiBApRYezEyLCAxMn3WAAkLcgtzC3QLdQt2C3cAbwYcAyUJ6Q1jgQH8gFYIgQKWV3swLCAxM33WAAkLcgtzC3QLdQt2C3cAcAYcAyUIhw1pgQH8gFcIgQKYV3s0LCAxM33WAAkLcgtzC3QLdQt2C3cAcQYcAyUIMg1vgQH8gFgIgQKaWHsxMSwgMTN91gAJC3ILcwt0C3ULdgt3AHIGHAMlCkcNdYEB/IBZCIECnFd7MCwgMTR91gAJC3ILcwt0C3ULdgt3AHMGHAMlCPsNe4EB/IBaCIECnld7NCwgMTR91gAJC3ILcwt0C3ULdgt3AHQGHAMlCSUNgYEB/IBbCIECoFh7MTEsIDE0fdIA0ADRDYQNhVlDcm9zc3dvcmSjDYQNhgDVVlB1enpsZV8QD05TS2V5ZWRBcmNoaXZlctENiQ2KVHJvb3SAAQAIABkAIgArADUAOgA/BYcFjQWuBbUF0wXsBgcGIQY8BlAGXwZiBmQGZwZpBmsGbgZxBnMGfAaHBzwHPgdAB0IHRAdGB0gHSgdMB04HUAdSB1QHVgdYB1oHXAdeB2AHYgdkB2YHaAdqB2wHbgdwB3IHdAd2B3gHegd8B34HgAeCB4QHhgeIB4oHjAeOB5AHkgeUB5YHmAeaB5wHngegB6IHpAemB6gHqgesB64HsAeyB7QHtge4B7oHvAe+B8AHwgfEB8YHyAfKB8wHzgfQB9IH1AfWB9gH2gfcB94H4AfiB+QH5gfoB+oH7AfuB/AH9gf9CAQICwgPCBMIGgggCCYIKgguCDIINgg6CEMISAhNCFMIWgheCGsIbwhzCHcIewiACIQIiAiPCJMImQieCKIIpgisCLAIuQi+CMIIxgjKCM8I1QjbCN8I5AjoCOwI9Qj8CQEJBgkKCQ4JFAkYCRwJIAkpCS0JMwk6CUEJSAlMCVMJWQlfCWMJZwlsCXEJdgl6CX4JggmPCZMJlwmbCZ8JowmnCasJsgm4CbwJwwnJCdIJ3QnmCfUJ/AoECg0KGgoiC6ULpwupC6sLrQuvC7ELswu1C7cLuQu7C70LvwvBC8MLxQvHC8kLywvNC88L0QvTC9UL1wvZC9sL3QvfC+EL4wvlC+cL6QvrC+0L7wvxC/ML9Qv3C/kL+wv9C/8MAQwDDAUMBwwJDAsMDQwPDBEMEwwVDBcMGQwbDB0MHwwhDCMMJQwnDCkMKwwtDC8MMQwzDDUMNww5DDsMPQw/DEEMQwxFDEcMSQxLDE0MTwxRDFMMVQxXDFkMWwxdDF8MYQxjDGUMZwxpDGsMbQxvDHEMcwx1DHcMeQx7DH0MfwyBDIMMhQyHDIkMiwyNDI8MkQyTDJUMlwyZDJsMnQyfDKEMowylDKcMqQyrDK0MrwyxDLMMtQy3DLkMuwy9DL8MwQzDDMUMxwzJDMsMzQzPDNEM0wzVDNcM2QzbDN0M3wzhDOMM5QznDOkM7AzvDPIM9Qz4DPsM/g0BDQQNBw0KDQ0NEA0TDRYNGQ0cDR8NIg0lDSgNKw0uDTENNA03DToNPQ1ADUMOxg7JDswOzw7SDtUO2A7bDt4O4Q7kDucO6g7tDvAO8w72DvkO/A7/DwIPBQ8IDwsPDg8RDxQPFw8aDx0PIA8jDyYPKQ8sDy8PMg81DzgPOw8+D0EPRA9HD0oPTQ9QD1MPVg9ZD1wPXw9iD2UPaA9rD24PcQ90D3cPeg99D4APgw+GD4kPjA+PD5IPlQ+YD5sPng+hD6QPpw+qD60PsA+zD7YPuQ+8D78Pwg/FD8gPyw/OD9EP1A/XD9oP3Q/gD+MP5g/pD+wP7w/yD/UP+A/7D/4QARAEEAcQChANEBAQExAWEBkQHBAfECIQJRAoECsQLhAxEDQQNxA6ED0QQBBDEEYQSRBMEE8QUhBVEFgQWxBeEGEQZBBnEGoQbRBwEHMQdhB5EHwQfxCCEIUQiBCLEI4QkRCUEJcQmhCdEKAQoxCmEKkQrBCvELIQtRC4ELsQvhDBEMQQxxDKEM0Q0BDTENYQ2RDcEN8Q4hDlEOgQ6xDuEPEQ9BD3EPoQ/REAEQMRBhEJEQ4RExEXERwRIRElESkRLREyETcRPRFDEUgRTRFSEVcRXRFiEWcRbRFyEXcRfBGCEYcRjBGREZYRmxGhEacRrBGxEbYRuxHAEcURyxHPEdUR2hHfEeMR6BHsEfER9RH5Ef4SAxIJEg0SERIWEhoSHxIjEicSKxIxEjcSOxJAEkQSSRJNElMSVxJbEl8SYxJoEmwScRJ1EnkSfRKCEoYSjBKQEpUSmhKeEqISpxKsErAStBK4Er0SwhLIEswS0RLWEtsS4BLkEuoS7hLzEvcS/RMCEwYTCxMQExQTGRMdEyITJhMrEy8TNBM6Ez4TQxNIE0wTUhNWE1oTXxNjE2gTbBNwE3UTehN+E4MThxOLE5ATlBOaE54TohOnE6sTsBO1E7sTvxPDE8gTzBPSE9YT2xPfE+QT6BPtE/ET9RP6E/4UAhQHFAsUEBQUFBkUHRQjFCcUKxQwFDQUORQ+FEIURhRLFFAUVRRZFF0UYRRmFGsUcBR2FHoUfxSDFIcUjRSRFLoU0RToFP4VFRUtFUMVVxVtFYEVghWDFYYVhxWIFYkVihWNFZAVmRWbFaIVqxW4Fb0VyhXzFfQV9RX4FfkV+hX7FfwV/xYCFgQWBhYvFjAWMRY0FjUWNhY3FjgWOxY+FkAWaRZqFmsWbhZvFnAWcRZyFnUWeBZ6FnwWpRamFqcWqharFqwWrRauFrEWtBa2Ft8W4BbhFuQW5RbmFucW6BbrFu4W8BcZFxoXGxceFx8XIBchFyIXJRcoF1EXUhdTF1YXVxdYF1kXWhddF2AXYheLF4wXjReQF5EXkheTF5QXlxeaF8MXxBfFF8gXyRfKF8sXzBfPF9IX1Bf9F/4X/xgCGAMYBBgFGAYYCRgMGA4YNxg4GDkYPBg9GD4YPxhAGEMYRhhvGHAYcRh0GHUYdhh3GHgYexh+GIAYghirGKwYrRiwGLEYshizGLQYtxi6GOMY5BjlGOgY6RjqGOsY7BjvGPIY9BkdGR4ZHxkiGSMZJBklGSYZKRksGS4ZMBlZGVoZWxleGV8ZYBlhGWIZZRloGWoZkxmUGZUZmBmZGZoZmxmcGZ8ZohnLGcwZzRnQGdEZ0hnTGdQZ1xnaGdwaBRoGGgcaChoLGgwaDRoOGhEaFBo9Gj4aPxpCGkMaRBpFGkYaSRpMGnUadhp3Gnoaexp8Gn0afhqBGoQahhqvGrAasRq0GrUathq3Grgauxq+GsAa6RrqGusa7hrvGvAa8RryGvUa+BshGyIbIxsmGycbKBspGyobLRswG1kbWhtbG14bXxtgG2EbYhtlG2gbkRuSG5MblhuXG5gbmRuaG50boBuiG8sbzBvNG9Ab0RvSG9Mb1BvXG9ob3BwFHAYcBxwKHAscDBwNHA4cERwUHD0cPhw/HEIcQxxEHEUcRhxJHEwcThx3HHgceRx8HH0cfhx/HIAcgxyGHK8csByxHLQctRy2HLccuBy7HL4c5xzoHOkc7BztHO4c7xzwHPMc9hz4HSEdIh0jHSYdJx0oHSkdKh0tHTAdWR1aHVsdXh1fHWAdYR1iHWUdaB1qHZMdlB2VHZgdmR2aHZsdnB2fHaIdpB2mHc8d0B3RHdQd1R3WHdcd2B3bHd4eBx4IHgkeDB4NHg4eDx4QHhMeFh4/HkAeQR5EHkUeRh5HHkgeSx5OHlAeeR56Hnsefh5/HoAegR6CHoUeiB6xHrIesx62HrceuB65HroevR7AHsIe6x7sHu0e8B7xHvIe8x70Hvce+h8jHyQfJR8oHykfKh8rHywfLx8yHzQfNh9fH2AfYR9kH2UfZh9nH2gfax9uH5cfmB+ZH5wfnR+eH58foB+jH6YfqB/RH9If0x/WH9cf2B/ZH9of3R/gH+I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
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z179">
+        <attribute name="word" type="string">LOU</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z180">
+        <attribute name="word" type="string">SHAZAM</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z181">
+        <attribute name="word" type="string">DANISH</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z182">
+        <attribute name="word" type="string">LUDACRIS</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z183">
+        <attribute name="word" type="string">PAUL</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z184">
+        <attribute name="word" type="string">DHS</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z185">
+        <attribute name="word" type="string">UNI</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z186">
+        <attribute name="word" type="string">RAE</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z187">
+        <attribute name="word" type="string">FAD</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z188">
+        <attribute name="word" type="string">LEVAR</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z189">
+        <attribute name="word" type="string">WES</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z190">
+        <attribute name="word" type="string">ESL</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z191">
+        <attribute name="word" type="string">AIR</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+    <object type="WORDCLUE" id="z192">
+        <attribute name="word" type="string">ESC</attribute>
+        <attribute name="clue" type="encodable">YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKQH
+CA0OVSRudWxs0gkKCwxYTlNTdHJpbmdWJGNsYXNzgAKAA1DSDxARElokY2xhc3NuYW1lWCRjbGFzc2VzXxASTlNBdHRyaWJ1dGVkU3RyaW5nohMUXxASTlNBdHRyaWJ1dGVkU3RyaW5nWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc8QkdQV1lbXGFsdYqNoqu9wMUAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAxw==
+</attribute>
+    </object>
+</database>
